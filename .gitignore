@@ -1,0 +1,10 @@
+#ignore venv1 and all its contents
+venv1/*
+#ignore DS_Store
+.DS_Store
+
+#ignore all files in the dataset folder
+dataset/
+
+ignore all csv files
+*.csv
